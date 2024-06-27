@@ -14,7 +14,7 @@
         "header": "Components",
         "items": [
             {
-                "text": "Extended UI",
+                "text": "All Modules",
                 "icon": "bx bx-copy",
                 "available": true,
                 "link": "/extended-ui",
